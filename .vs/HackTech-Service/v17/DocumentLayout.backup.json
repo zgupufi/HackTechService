@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\models\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\models\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\dal\\maprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\dal\\maprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\controllers\\navigationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\controllers\\navigationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\dal\\airportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\dal\\airportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\models\\pointofinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\models\\pointofinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\services\\interfaces\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\services\\interfaces\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\dtos\\routerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\dtos\\routerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\services\\interfaces\\iboardingpassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\services\\interfaces\\iboardingpassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\services\\interfaces\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\services\\interfaces\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\dtos\\routeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\dtos\\routeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\services\\boardingpassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\services\\boardingpassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\models\\qrlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\models\\qrlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\controllers\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\controllers\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\controllers\\boardingpasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\controllers\\boardingpasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\dtos\\usercontextdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\dtos\\usercontextdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\hacktech-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\hacktech-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|c:\\users\\foica\\source\\repos\\hacktech-service\\hacktech-service\\hubs\\assistancehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863813E1-D3A8-40F8-9436-3CF7991C0AB0}|HackTech-Service\\HackTech-Service.csproj|solutionrelative:hacktech-service\\hubs\\assistancehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\DAL\\MapRepository.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\DAL\\MapRepository.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\DAL\\MapRepository.cs",
+              "RelativeToolTip": "HackTech-Service\\DAL\\MapRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:26:18.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\DTOs\\RouteRequest.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\DTOs\\RouteRequest.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\DTOs\\RouteRequest.cs",
+              "RelativeToolTip": "HackTech-Service\\DTOs\\RouteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:50:27.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Services\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Services\\NavigationService.cs",
+              "RelativeToolTip": "HackTech-Service\\Services\\NavigationService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwHgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:21:27.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavigationController.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Controllers\\NavigationController.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Controllers\\NavigationController.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Controllers\\NavigationController.cs",
+              "RelativeToolTip": "HackTech-Service\\Controllers\\NavigationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:27:14.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Program.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Program.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Program.cs",
+              "RelativeToolTip": "HackTech-Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:50:10.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Models\\Node.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Models\\Node.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Models\\Node.cs",
+              "RelativeToolTip": "HackTech-Service\\Models\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:16:04.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBoardingPassService.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Services\\Interfaces\\IBoardingPassService.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Services\\Interfaces\\IBoardingPassService.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Services\\Interfaces\\IBoardingPassService.cs",
+              "RelativeToolTip": "HackTech-Service\\Services\\Interfaces\\IBoardingPassService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:22:24.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "INavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Services\\Interfaces\\INavigationService.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Services\\Interfaces\\INavigationService.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Services\\Interfaces\\INavigationService.cs",
+              "RelativeToolTip": "HackTech-Service\\Services\\Interfaces\\INavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:21:39.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AirportDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\DAL\\AirportDbContext.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\DAL\\AirportDbContext.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\DAL\\AirportDbContext.cs",
+              "RelativeToolTip": "HackTech-Service\\DAL\\AirportDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:47:59.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Models\\Edge.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Models\\Edge.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Models\\Edge.cs",
+              "RelativeToolTip": "HackTech-Service\\Models\\Edge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:16:20.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Models\\Flight.cs",
+              "RelativeToolTip": "HackTech-Service\\Models\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:16:41.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Models\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "HackTech-Service\\Models\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:16:51.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\appsettings.json",
+              "RelativeDocumentMoniker": "HackTech-Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\appsettings.json",
+              "RelativeToolTip": "HackTech-Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T17:47:55.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PointOfInterest.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Models\\PointOfInterest.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Models\\PointOfInterest.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Models\\PointOfInterest.cs",
+              "RelativeToolTip": "HackTech-Service\\Models\\PointOfInterest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:16:31.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFlightService.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Services\\Interfaces\\IFlightService.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Services\\Interfaces\\IFlightService.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Services\\Interfaces\\IFlightService.cs",
+              "RelativeToolTip": "HackTech-Service\\Services\\Interfaces\\IFlightService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:22:44.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RouteResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\DTOs\\RouteResponse.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\DTOs\\RouteResponse.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\DTOs\\RouteResponse.cs",
+              "RelativeToolTip": "HackTech-Service\\DTOs\\RouteResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:23:48.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BoardingPassService.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Services\\BoardingPassService.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Services\\BoardingPassService.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Services\\BoardingPassService.cs",
+              "RelativeToolTip": "HackTech-Service\\Services\\BoardingPassService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:22:34.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Services\\FlightService.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Services\\FlightService.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Services\\FlightService.cs",
+              "RelativeToolTip": "HackTech-Service\\Services\\FlightService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:22:55.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QRLocation.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Models\\QRLocation.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Models\\QRLocation.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Models\\QRLocation.cs",
+              "RelativeToolTip": "HackTech-Service\\Models\\QRLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:53:50.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MapController.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Controllers\\MapController.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Controllers\\MapController.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Controllers\\MapController.cs",
+              "RelativeToolTip": "HackTech-Service\\Controllers\\MapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:29:54.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BoardingPassController.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Controllers\\BoardingPassController.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Controllers\\BoardingPassController.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Controllers\\BoardingPassController.cs",
+              "RelativeToolTip": "HackTech-Service\\Controllers\\BoardingPassController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:27:33.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserContextDto.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\DTOs\\UserContextDto.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\DTOs\\UserContextDto.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\DTOs\\UserContextDto.cs",
+              "RelativeToolTip": "HackTech-Service\\DTOs\\UserContextDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:24:08.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HackTech-Service",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\HackTech-Service.csproj",
+              "RelativeDocumentMoniker": "HackTech-Service\\HackTech-Service.csproj",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\HackTech-Service.csproj",
+              "RelativeToolTip": "HackTech-Service\\HackTech-Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-05T15:26:34.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssistanceHub.cs",
+              "DocumentMoniker": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Hubs\\AssistanceHub.cs",
+              "RelativeDocumentMoniker": "HackTech-Service\\Hubs\\AssistanceHub.cs",
+              "ToolTip": "C:\\Users\\Foica\\source\\repos\\HackTech-Service\\HackTech-Service\\Hubs\\AssistanceHub.cs",
+              "RelativeToolTip": "HackTech-Service\\Hubs\\AssistanceHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:23:22.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
